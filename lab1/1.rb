@@ -21,5 +21,7 @@ def word_stats(text)
   puts word_count.to_s + " слів, найдовше: " + longest + ", унікальних: " + unique_count.to_s
 end
 
-text = "Ruby is fun and ruby is powerful"
+print "Введіть текст: "
+text = gets.chomp
+
 word_stats(text)
