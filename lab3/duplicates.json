@@ -1,0 +1,22 @@
+{
+  "scanned_files": 6,
+  "groups": [
+    {
+      "size_bytes": 14,
+      "saved_if_dedup_bytes": 28,
+      "files": [
+        "test/1.txt",
+        "test/copy_1.txt",
+        "test/test_subfolder/1_copy.txt"
+      ]
+    },
+    {
+      "size_bytes": 36,
+      "saved_if_dedup_bytes": 36,
+      "files": [
+        "test/2.txt",
+        "test/test_subfolder/2_copy.txt"
+      ]
+    }
+  ]
+}
